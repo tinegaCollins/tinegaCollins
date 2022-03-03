@@ -11,3 +11,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tinegaCollins)](https://git.io/streak-stats)
 
 
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=_tinega)](https://github.com/gazf/github-readme-twitter)
+
+
+
+
