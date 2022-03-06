@@ -6,7 +6,7 @@
 - I am a front-end developer from Kenya
 - 🌱 I’m currently learning Express.js
 - 👯 I’m looking to collaborate on any project within my tech stack
-- 😄 Pronouns: Yule/pale 😄😄😄 
+- 😄 Pronouns: he/him/his
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tinegaCollins)](https://git.io/streak-stats)
 
