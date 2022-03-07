@@ -14,5 +14,5 @@
 <!-- [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=_tinega)](https://github.com/gazf/github-readme-twitter) -->
 
 
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yasinnorozzadeh&theme=react-dark) 
 
