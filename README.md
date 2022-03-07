@@ -6,7 +6,7 @@
 - I am a front-end developer from Kenya
 - 🌱 I’m currently learning Express.js
 - 👯 I’m looking to collaborate on any project within my tech stack
-- 😄 Pronouns: he/him/his
+- 😄 Pronouns: yule/pale
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tinegaCollins)](https://git.io/streak-stats)
 
@@ -15,7 +15,9 @@
 
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinegaCollins&layout=compact&bg_color=000080&title_color=9400D3&text_color=00CED1" />
-    <img src="https://github-readme-stats.vercel.app/api?username=tinegaCollins&show_icons=true&title_color=9400D3&icon_color=79ff97&text_color=00CED1&bg_color=000080" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinegaCollins&layout=compact&bg_color=#fffffftitle_color=9400D3&text_color=00CED1" />
 </p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=tinegaCollins&show_icons=true&title_color=9400D3&icon_color=79ff97&text_color=00CED1&bg_color=000080" />
+ </p>
 
