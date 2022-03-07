@@ -14,10 +14,10 @@
 <!-- [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=_tinega)](https://github.com/gazf/github-readme-twitter) -->
 
 
-<p align="center" margin-top = "30px">
+<p margin-top = "30px">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinegaCollins&layout=compact&bg_color=#fffffftitle_color=9400D3&text_color=00CED1" />
 </p>
-<p align="center">
+<p>
     <img src="https://github-readme-stats.vercel.app/api?username=tinegaCollins&show_icons=true&title_color=9400D3&icon_color=79ff97&text_color=00CED1&bg_color=#333" />
  </p>
 
