@@ -19,3 +19,9 @@
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=tinegaCollins&show_icons=true&title_color=9400D3&icon_color=79ff97&text_color=00CED1&bg_color=#333" />
  </p>
+ 
+<p align="center">            
+<a href="https://github.com/lynnemunini/github-readme-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tinegaCollins&ring=fad02c&fire=fad02c&currStreakLabel=fad02c&background=1F222E&hide_border=true&sideNums=fff6ea&sideLabels=fff6ea&dates=fff6ea&currStreakNum=fff6ea" />
+</a>
+</p>
