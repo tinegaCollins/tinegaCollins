@@ -13,7 +13,7 @@
 
 
 
-<p margin-top = "30px"  align="center">
+<p margin-top = "30px"  align="center" background="black">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinegaCollins&layout=compact&bg_color=#fffffftitle_color=9400D3&text_color=00CED1" />
 </p>
 <p  align="center">
