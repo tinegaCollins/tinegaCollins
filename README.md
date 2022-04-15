@@ -6,7 +6,7 @@
 - I am a front-end developer from Kenya
 - 🌱 I’m currently learning vue.js
 - 👯 I’m looking to collaborate on any project within my tech stack
-- 😄 Pronouns: yule/pale
+- 😄 Pronouns: he/him/his
 
 
 
