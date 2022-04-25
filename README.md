@@ -21,7 +21,7 @@
  </p>
  
 <p align="center">            
-<a href="https://github.com/lynnemunini/github-readme-stats">
+<a href="https://github.com/tinegaCollins/github-readme-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tinegaCollins&ring=fad02c&fire=fad02c&currStreakLabel=fad02c&background=1F222E&hide_border=true&sideNums=fff6ea&sideLabels=fff6ea&dates=fff6ea&currStreakNum=fff6ea" />
 </a>
 </p>
