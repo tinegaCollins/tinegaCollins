@@ -16,9 +16,6 @@
 <p margin-top = "30px"  align="center" background="black">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinegaCollins&layout=compact&bg_color=#fffffftitle_color=9400D3&text_color=00CED1" />
 </p>
-<p  align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tinegaCollins&show_icons=true&title_color=9400D3&icon_color=79ff97&text_color=00CED1&bg_color=#333" />
- </p>
  
 <p align="center">            
 <a href="https://github.com/tinegaCollins/github-readme-stats">
