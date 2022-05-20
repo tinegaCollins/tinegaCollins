@@ -28,4 +28,3 @@
 </a>
 </p>
  -->
- <img height: "300px" width="auto" align="center" src="https://i.pinimg.com/736x/40/cd/40/40cd40156d029065208e4258974db6a3.jpg"/>
