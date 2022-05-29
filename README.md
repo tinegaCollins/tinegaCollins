@@ -3,7 +3,7 @@
 <!--
 **tinegaCollins/tinegaCollins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- I am a software engineer from Kenya
+- I am a software developer from Kenya
 - 🌱 I’m currently learning 3.js
 - 👯 I’m looking to collaborate on any project within my tech stack
 - 😄 Pronouns: he/him/his
