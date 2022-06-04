@@ -18,14 +18,14 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinegaCollins&layout=compact&bg_color=#fffffftitle_color=9400D3&text_color=00CED1" />
 </p>
  
-<!-- <p align="center">            
+<p align="center">            
 <a href="https://github.com/tinegaCollins/github-readme-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tinegaCollins&ring=fad02c&fire=fad02c&currStreakLabel=fad02c&background=1F222E&hide_border=true&sideNums=fff6ea&sideLabels=fff6ea&dates=fff6ea&currStreakNum=fff6ea" />
 </a>
 </p>
-<p align="center">            
+<!-- <p align="center">            
 <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31iqn4segkq634rzyodthfusdcnq&redirect=true">
   <img align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=cw44vx1muv0czb8zgjp36dccb&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" />
 </a>
-</p>
- -->
+</p> -->
+
