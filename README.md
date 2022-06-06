@@ -4,4 +4,4 @@
 
 part time student, full-time programmer.
 
-Attaining coding skills beyond your possible imagination.
+Attaining incredible coding skills beyond your possible imagination.
